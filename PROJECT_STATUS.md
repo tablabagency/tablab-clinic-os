@@ -32,6 +32,8 @@
 
 ## V1 architecture
 
+- [x] V1 working architecture documented in ARCHITECTURE.md
+- [x] Synthetic test plan documented in TESTING.md
 - [ ] Finalise channel architecture
 - [ ] Finalise Airtable data model
 - [ ] Finalise n8n architecture
@@ -64,3 +66,7 @@
 - [ ] Clinic onboarding process
 - [ ] Client handover documentation
 - [ ] Production sign-off
+
+## Public-repository warning
+
+The repository is currently public to allow the Claude GitHub integration to read the project. It must contain documentation/code only and no secrets, credentials, real clinic data or other confidential material. Reassess repository visibility before production.
