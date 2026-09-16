@@ -27,7 +27,8 @@
 - [x] Existing Google Sheet schema reviewed
 - [x] Existing Tally Glow Clinic form reviewed
 - [x] Existing performance dashboard reviewed
-- [x] Manychat account reconnected; current workspace/channel availability needs verification
+- [x] Manychat account reconnected
+- [x] Manychat Instagram channel confirmed as the currently connected channel for the TabLab Agency workspace
 
 ## V1 architecture
 
